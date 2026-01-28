@@ -11,4 +11,4 @@ Open `webpage1/index.html` in any web browser.
 
 ## Author
 Karthik G Nair  
-Artificial Intelligence Student, Amrita Vishwa Vidyapeetham
+MTech, Artificial Intelligence Student, Amrita Vishwa Vidyapeetham
